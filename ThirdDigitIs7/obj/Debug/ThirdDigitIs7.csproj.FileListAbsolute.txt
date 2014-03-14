@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb

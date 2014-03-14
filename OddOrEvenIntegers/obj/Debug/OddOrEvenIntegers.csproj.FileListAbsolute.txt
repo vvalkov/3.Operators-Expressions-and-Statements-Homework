@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

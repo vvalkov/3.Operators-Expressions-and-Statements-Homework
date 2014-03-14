@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Rectangles\obj\Debug\Rectangles.pdb

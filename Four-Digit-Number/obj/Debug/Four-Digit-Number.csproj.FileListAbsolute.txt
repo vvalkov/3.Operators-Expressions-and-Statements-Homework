@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Four-Digit-Number\bin\Debug\Four-Digit-Number.pdb
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Four-Digit-Number\obj\Debug\Four-Digit-Number.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Four-Digit-Number\obj\Debug\Four-Digit-Number.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Four-Digit-Number\obj\Debug\Four-Digit-Number.pdb

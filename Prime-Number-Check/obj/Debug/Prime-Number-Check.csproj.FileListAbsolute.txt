@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.pdb
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.exe
+C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.pdb

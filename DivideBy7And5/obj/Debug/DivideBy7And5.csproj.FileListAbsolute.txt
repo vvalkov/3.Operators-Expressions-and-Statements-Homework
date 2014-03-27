@@ -2,3 +2,5 @@ C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework
 C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
 C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\DivideBy7And5\obj\Debug\DivideBy7And5.exe
 C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 3 - Operators-Expressions-and-Statements\3.Operators-Expressions-and-Statements-Homework\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 3 - Operators-Expressions-and-Statements\3.Operators-Expressions-and-Statements-Homework\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime-Number-Check", "Prime
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoids", "Trapezoids\Trapezoids.csproj", "{B2973368-D8E2-41C8-84D6-36926B2E2A9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InCircleOutRect", "InCircleOutRect\InCircleOutRect.csproj", "{91BC0A11-5A5C-43B3-8701-3C3944682128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract-Bit-3", "Extract-Bit-3\Extract-Bit-3.csproj", "{A10631EE-3B5A-4B6B-B410-C90F8A773738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{B2973368-D8E2-41C8-84D6-36926B2E2A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2973368-D8E2-41C8-84D6-36926B2E2A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2973368-D8E2-41C8-84D6-36926B2E2A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BC0A11-5A5C-43B3-8701-3C3944682128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BC0A11-5A5C-43B3-8701-3C3944682128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BC0A11-5A5C-43B3-8701-3C3944682128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BC0A11-5A5C-43B3-8701-3C3944682128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10631EE-3B5A-4B6B-B410-C90F8A773738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10631EE-3B5A-4B6B-B410-C90F8A773738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10631EE-3B5A-4B6B-B410-C90F8A773738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10631EE-3B5A-4B6B-B410-C90F8A773738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

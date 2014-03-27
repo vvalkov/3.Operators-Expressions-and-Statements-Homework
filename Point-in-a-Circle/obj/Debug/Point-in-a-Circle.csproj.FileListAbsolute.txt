@@ -3,3 +3,8 @@ C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework
 C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.csprojResolveAssemblyReference.cache
 C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.exe
 C:\Users\UniUser\Documents\velizar\Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 3 - Operators-Expressions-and-Statements\3.Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 3 - Operators-Expressions-and-Statements\3.Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 3 - Operators-Expressions-and-Statements\3.Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 3 - Operators-Expressions-and-Statements\3.Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 3 - Operators-Expressions-and-Statements\3.Operators-Expressions-and-Statements-Homework\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.csprojResolveAssemblyReference.cache

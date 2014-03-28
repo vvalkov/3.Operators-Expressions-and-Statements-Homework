@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\CheckABitAtGivenPositionIs1\bin\Debug\CheckABitAtGivenPositionIs1.exe
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\CheckABitAtGivenPositionIs1\bin\Debug\CheckABitAtGivenPositionIs1.pdb
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\CheckABitAtGivenPositionIs1\obj\Debug\CheckABitAtGivenPositionIs1.exe
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\CheckABitAtGivenPositionIs1\obj\Debug\CheckABitAtGivenPositionIs1.pdb

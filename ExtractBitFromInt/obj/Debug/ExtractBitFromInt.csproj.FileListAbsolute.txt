@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ExtractBitFromInt\bin\Debug\ExtractBitFromInt.exe.config
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ExtractBitFromInt\bin\Debug\ExtractBitFromInt.exe
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ExtractBitFromInt\bin\Debug\ExtractBitFromInt.pdb
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ExtractBitFromInt\obj\Debug\ExtractBitFromInt.exe
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ExtractBitFromInt\obj\Debug\ExtractBitFromInt.pdb

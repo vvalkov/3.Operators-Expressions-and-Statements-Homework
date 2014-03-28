@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\UniUser\Documents\velizar\3.Operators-Expressions-and-Statements-Homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
